@@ -1,4 +1,8 @@
-![Koryo taekwondo](https://play-lh.googleusercontent.com/AqXZz4mKENIKUjVDFkb1CDL8ZqncPF9SS97GNs_I--atHNm67ELDFlhRj387FCw8Wcw=w480-h960-rw)
+<p align="center">
+    <img style="border-radius: 50px" width="250" src="https://play-lh.googleusercontent.com/AqXZz4mKENIKUjVDFkb1CDL8ZqncPF9SS97GNs_I--atHNm67ELDFlhRj387FCw8Wcw=w480-h960-rw" alt="Koryo taekwondo">
+</p>
+
+
 
 ## API Koryo Taekwondo
 
